@@ -1,1 +1,1 @@
-This directories contains tasks that concerns shell redirections.
+This directory concerns tasks relating to shell redirection.
