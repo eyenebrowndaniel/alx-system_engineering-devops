@@ -1,10 +1,10 @@
-file 1 creates a script that creates an alias with name: ls and value: rm *
+file 0 creates a script that creates an alias with name: ls and value: rm *
 
-file 2 creates a script that prints hello user, where user is the current Linux user
+file 1 creates a script that prints hello user, where user is the current Linux user
 
-file 3 adds /action to the path
+file 2 adds /action to the path
 
-file 4 creates a script that counts the number of directories in the path
+file 3 creates a script that counts the number of directories in the path
 
 file 4 creates a script that lists environment variables
 
@@ -20,7 +20,7 @@ file 9 creates a script that prints the result of POWER divided by DIVIDE, where
 
 file 10 creates a script that displays the result of BREATH to the power of LOVE
 
-file 11 creates a script that converts a number from base 2 to base q0
+file 11 creates a script that converts a number from base 2 to base 10
 
 file 12 creates a script that prints all possible combinations of two letters, except oo
 
